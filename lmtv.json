@@ -1,4 +1,16 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch_1784805735365",
+      "name": "bein sports 1",
+      "qualities": [
+        {
+          "id": "q_1784805735365",
+          "name": "HD1111",
+          "url": "http://king-km-king.com/8007661465/3915115995/571852"
+        }
+      ]
+    }
+  ],
   "custom_matches": []
 }
