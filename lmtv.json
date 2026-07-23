@@ -12,5 +12,15 @@
       ]
     }
   ],
-  "custom_matches": []
+  "custom_matches": [
+    {
+      "id": "m_1784811385137",
+      "home_name": "كالياري",
+      "home_image": "https://imgs.ysscores.com/teams/150/7311690283001.png",
+      "away_name": "سامبدوريا",
+      "away_image": "https://imgs.ysscores.com/teams/150/6621691618945.png",
+      "match_date": "2026-07-23",
+      "match_time": "18:00"
+    }
+  ]
 }
