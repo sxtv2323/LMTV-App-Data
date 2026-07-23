@@ -1,21 +1,4 @@
 {
-  "channels": [
-    {
-      "id": "ch_1784603969146",
-      "name": "beIN Max 1",
-      "qualities": [
-        {
-          "id": "q_1784603969147",
-          "name": "HD",
-          "url": "http://king-km-king.com/live/8007661465/3915115995/639197.m3u8"
-        },
-        {
-          "id": "q_1784805506073",
-          "name": "HD",
-          "url": "http://king-km-king.com/8007661465/3915115995/571852"
-        }
-      ]
-    }
-  ],
+  "channels": [],
   "custom_matches": []
 }
