@@ -12,15 +12,5 @@
       ]
     }
   ],
-  "custom_matches": [
-    {
-      "id": "m_1784806353492",
-      "home_name": "برشلونة",
-      "home_image": "",
-      "away_name": "ريال",
-      "away_image": "",
-      "match_date": "2026-07-23",
-      "match_time": "14:32"
-    }
-  ]
+  "custom_matches": []
 }
