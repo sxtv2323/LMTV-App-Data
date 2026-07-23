@@ -17,15 +17,5 @@
       ]
     }
   ],
-  "custom_matches": [
-    {
-      "id": "m_1784805594600",
-      "home_name": "تجريبي",
-      "home_image": "",
-      "away_name": "تجريبي",
-      "away_image": "",
-      "match_date": "2026-07-23",
-      "match_time": "14:19"
-    }
-  ]
+  "custom_matches": []
 }
