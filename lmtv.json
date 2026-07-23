@@ -28,15 +28,5 @@
       ]
     }
   ],
-  "custom_matches": [
-    {
-      "id": "m_1784632913747",
-      "home_name": "ريال",
-      "home_image": "",
-      "away_name": "برشا",
-      "away_image": "",
-      "match_date": "2026-07-21",
-      "match_time": "14:21"
-    }
-  ]
+  "custom_matches": []
 }
