@@ -1,16 +1,4 @@
 {
-  "channels": [
-    {
-      "id": "ch_1784884945669",
-      "name": "مانشستر يونايتد",
-      "qualities": [
-        {
-          "id": "q_1784886863116",
-          "name": "SD",
-          "url": "http://37.49.227.66/WFJobG5hOCtUSHh5VVpDQWJmL2tsemtuQ0VtMEFLbjh1aUZXUzNaUWRsTVFtRG1Sa2pwNy9hRkVkY0VrZXdlYWw0T1pBTlRaa2JIUGw4c0dzUDQrRExmVUJ6VFRLeXBzUGMxRGxuZ0p5bkFOZVpNemJQeUtOMUtubnA5M1gyUDVFU0lWSHhzMU51NmltNHhqdDlEbDZCbEtzMStQMndIUTVMVWVhYUlNWkI2V1dJdmdrQ0hzNDVyQUFEV25EYmdMZXhDdllPMXVZVjRvV2EwMzcvRGJmaXF3dUgrbnFEOGIxVTE2SS9FTWpKZXNwaWkvTktORmxiSlp1QnJiZkNtQUJQTWNKTjBnZGEzODAvdXlqU041amZxY2NlNDhSWFpzTWtvZTU5T3dJRFo0UU9uejRhbjNKbjJkZmQ3N3diWkpHUWZZa05vUlFDazFvcmR3cHJqYWNBcHdQQmw2cEFSMm9JM3Vsem0xZmpjPQ"
-        }
-      ]
-    }
-  ],
+  "channels": [],
   "custom_matches": []
 }
