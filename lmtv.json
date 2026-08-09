@@ -1,16 +1,4 @@
 {
-  "channels": [
-    {
-      "id": "ch_1785150676056",
-      "name": "bein hd720",
-      "qualities": [
-        {
-          "id": "q_1785150676056",
-          "name": "HD",
-          "url": "http://ityyy54viner.atwebpages.com/Al-AbboudiTV3/index.php?action=proxy&channel=4&server=0"
-        }
-      ]
-    }
-  ],
+  "channels": [],
   "custom_matches": []
 }
