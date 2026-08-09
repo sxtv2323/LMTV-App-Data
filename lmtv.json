@@ -1,17 +1,6 @@
 {
   "channels": [
     {
-      "id": "ch_1784990578926",
-      "name": "بايرن ميونخ +",
-      "qualities": [
-        {
-          "id": "q_1784995593941",
-          "name": "HD",
-          "url": "http://ps-tv.b-cdn.net/bein/index.m3u8"
-        }
-      ]
-    },
-    {
       "id": "ch_1785150676056",
       "name": "bein hd720",
       "qualities": [
